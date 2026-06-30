@@ -126,6 +126,9 @@ hospital-performance-dashboard-excel/
 ├── Images/
 │   └──Hospital_dashboard.jpeg
 │
+├── Report/
+│   └──Hospital Performance Dashboard Analysis Report.docx
+│
 ├── README.md
 │
 └── LICENSE
