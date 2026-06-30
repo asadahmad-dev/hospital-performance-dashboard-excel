@@ -118,13 +118,13 @@ This project demonstrates practical experience in:
 hospital-performance-dashboard-excel/
 │
 ├── Dashboard/
-│   └── Hospital_ER_Dashboard.xlsx
+│   └── Hospital_Dashboard.xlsx
 │
 ├── Dataset/
-│   └── Hospital_Data.xlsx
+│   └── Hospital_Emergency_Room_Data.xlsx
 │
 ├── Images/
-│   └── dashboard.png
+│   └──Hospital_dashboard.jpeg
 │
 ├── README.md
 │
