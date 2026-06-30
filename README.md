@@ -34,7 +34,7 @@ The objectives of this project are to:
 
 > 
 
-```markdown
+markdown
 ![Hospital Performance Dashboard](Images/Hospital_dashboard.jpeg)
 ```
 
